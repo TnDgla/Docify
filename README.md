@@ -166,7 +166,7 @@ The Google Docs Clone architecture demonstrates the interaction between the fron
 - **Tasks:**
   1. Deploy the frontend to Vercel or Netlify.
      - **Reading:** [Netlify Deployment Docs](https://docs.netlify.com/)  
-     - **Video:** [Deploying React Apps on Netlify](https://www.youtube.com/watch?v=8lGpZkjnkt4)  
+     - **Video:** [Deploying React Apps on Netlify](https://www.youtube.com/watch?v=qAcOhFdC0-k)  
   2. Deploy the backend to Render or AWS.
      - **Reading:** [Heroku Deployment Guide](https://devcenter.heroku.com/articles/deploying-nodejs)  
      - **Video:** [Backend Deployment](https://www.youtube.com/watch?v=l134cBAJCuc)  
