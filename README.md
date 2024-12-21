@@ -1,7 +1,7 @@
  
 ---
 
-### **Google Docs Clone Web Application Documentation**
+# **Google Docs Clone Web Application**
 
 ---
 
